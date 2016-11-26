@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1480080778,
+	"version": 1480119786,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -10,8 +10,7 @@
 		"images/spriteball-sheet0.png",
 		"images/planet-sheet0.png",
 		"images/backgroundpageinitial-sheet0.png",
-		"images/jogar.png",
-		"images/highscore.png",
+		"images/sprite-sheet0.png",
 		"media/142608__autistic-lucario__error.m4a",
 		"media/142608__autistic-lucario__error.ogg",
 		"media/49695__ejfortin__energy-whip-2.m4a",
